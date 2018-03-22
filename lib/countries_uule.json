@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "cc": "ar",
+            "tld": "com.ar",
+            "name": "Argentina",
+            "uule": "w+CAIQICIJQXJnZW50aW5h"
+        },
+        {
+            "cc": "au",
+            "tld": "com.au",
+            "name": "Australia",
+            "uule": "w+CAIQICIJQXVzdHJhbGlh"
+        },
+        {
+            "cc": "at",
+            "tld": "at",
+            "name": "Austria",
+            "uule": "w+CAIQICIHQXVzdHJpYQ=="
+        },
+        {
+            "cc": "be",
+            "tld": "be",
+            "name": "Belgium",
+            "uule": "w+CAIQICIHQmVsZ2l1bQ=="
+        },
+        {
+            "cc": "bz",
+            "tld": "com.bz",
+            "name": "Belize",
+            "uule": "w+CAIQICIGQmVsaXpl"
+        },
+        {
+            "cc": "br",
+            "tld": "com.br",
+            "name": "Brazil",
+            "uule": "w+CAIQICIGQnJhemls"
+        },
+        {
+            "cc": "bg",
+            "tld": "bg",
+            "name": "Bulgaria",
+            "uule": "w+CAIQICIIQnVsZ2FyaWE="
+        },
+        {
+            "cc": "ca",
+            "tld": "ca",
+            "name": "Canada",
+            "uule": "w+CAIQICIGQ2FuYWRh"
+        },
+        {
+            "cc": "cl",
+            "tld": "cl",
+            "name": "Chile",
+            "uule": "w+CAIQICIFQ2hpbGU="
+        },
+        {
+            "cc": "co",
+            "tld": "com.co",
+            "name": "Colombia",
+            "uule": "w+CAIQICIIQ29sb21iaWE="
+        },
+        {
+            "cc": "kh",
+            "tld": "com.kh",
+            "name": "Cambodia",
+            "uule": "w+CAIQICIIQ2FtYm9kaWE="
+        },
+        {
+            "cc": "cr",
+            "tld": "co.cr",
+            "name": "Costa Rica",
+            "uule": "w+CAIQICIKQ29zdGEgUmljYQ=="
+        },
+        {
+            "cc": "cz",
+            "tld": "cz",
+            "name": "Czech Republic",
+            "uule": "w+CAIQICIHQ3plY2hpYQ=="
+        },
+        {
+            "cc": "dk",
+            "tld": "dk",
+            "name": "Denmark",
+            "uule": "w+CAIQICIHRGVubWFyaw=="
+        },
+        {
+            "cc": "ec",
+            "tld": "com.ec",
+            "name": "Ecuador",
+            "uule": "w+CAIQICIHRWN1YWRvcg=="
+        },
+        {
+            "cc": "sv",
+            "tld": "com.sv",
+            "name": "El Salvador",
+            "uule": "w+CAIQICILRWwgU2FsdmFkb3I="
+        },
+        {
+            "cc": "eg",
+            "tld": "com.eg",
+            "name": "Egypt",
+            "uule": "w+CAIQICIFRWd5cHQ="
+        },
+        {
+            "cc": "ee",
+            "tld": "ee",
+            "name": "Estonia",
+            "uule": "w+CAIQICIHRXN0b25pYQ="
+        },
+        {
+            "cc": "fi",
+            "tld": "fi",
+            "name": "Finland",
+            "uule": "w+CAIQICIHRmlubGFuZA=="
+        },
+        {
+            "cc": "fr",
+            "tld": "fr",
+            "name": "France",
+            "uule": "w+CAIQICIGRnJhbmNl"
+        },
+        {
+            "cc": "gt",
+            "tld": "com.gt",
+            "name": "Guatemala",
+            "uule": "w+CAIQICIJR3VhdGVtYWxh"
+        },
+        {
+            "cc": "de",
+            "tld": "de",
+            "name": "Germany",
+            "uule": "w+CAIQICIHR2VybWFueQ=="
+        },
+        {
+            "cc": "gh",
+            "tld": "com.gh",
+            "name": "Ghana",
+            "uule": "w+CAIQICIFR2hhbmE="
+        },
+        {
+            "cc": "gr",
+            "tld": "gr",
+            "name": "Greece",
+            "uule": "w+CAIQICIGR3JlZWNlDQo="
+        },
+        {
+            "cc": "hn",
+            "tld": "hn",
+            "name": "Honduras",
+            "uule": "w+CAIQICIISG9uZHVyYXM="
+        },
+        {
+            "cc": "hk",
+            "tld": "com.hk",
+            "name": "Hong Kong",
+            "uule": "w+CAIQICIJSG9uZyBLb25n"
+        },
+        {
+            "cc": "hu",
+            "tld": "hu",
+            "name": "Hungary",
+            "uule": "w+CAIQICIHSHVuZ2FyeQ=="
+        },
+        {
+            "cc": "in",
+            "tld": "co.in",
+            "name": "India",
+            "uule": "w+CAIQICIFSW5kaWE="
+        },
+        {
+            "cc": "in",
+            "tld": "co.in",
+            "name": "India",
+            "region": "Delhi",
+            "canonical": "New Delhi,Delhi,India",
+            "uule": "w+CAIQICIVTmV3IERlbGhpLERlbGhpLEluZGlh"
+        },
+        {
+            "cc": "id",
+            "tld": "co.id",
+            "name": "Indonesia",
+            "uule": "w+CAIQICIJSW5kb25lc2lh"
+        },
+        {
+            "cc": "ie",
+            "tld": "ie",
+            "name": "Ireland",
+            "uule": "w+CAIQICIHRmlubGFuZA=="
+        },
+        {
+            "cc": "il",
+            "tld": "co.il",
+            "name": "Israel",
+            "uule": "w+CAIQICIGSXNyYWVs"
+        },
+        {
+            "cc": "it",
+            "tld": "it",
+            "name": "Italy",
+            "uule": "w+CAIQICIFSXRhbHk="
+        },
+        {
+            "cc": "jp",
+            "tld": "co.jp",
+            "name": "Japan",
+            "uule": "w+CAIQICIFSmFwYW4="
+        },
+        {
+            "cc": "my",
+            "tld": "com.my",
+            "name": "Malaysia",
+            "uule": "w+CAIQICIITWFsYXlzaWE="
+        },
+        {
+            "cc": "mx",
+            "tld": "com.mx",
+            "name": "Mexico",
+            "uule": "w+CAIQICIGTWV4aWNv"
+        },
+        {
+            "cc": "nl",
+            "tld": "nl",
+            "name": "Netherlands",
+            "uule": "w+CAIQICILTmV0aGVybGFuZHM="
+        },
+        {
+            "cc": "nz",
+            "tld": "co.nz",
+            "name": "New Zealand",
+            "uule": "w+CAIQICIdQXVja2xhbmQsQXVja2xhbmQsTmV3IFplYWxhbmQ="
+        },
+        {
+            "cc": "ni",
+            "tld": "ni",
+            "name": "Nicaragua",
+            "uule": "w+CAIQICIJTmljYXJhZ3Vh"
+        },
+        {
+            "cc": "no",
+            "tld": "no",
+            "name": "Norway",
+            "uule": "w+CAIQICIGTm9yd2F5"
+        },
+        {
+            "cc": "ph",
+            "tld": "com.ph",
+            "name": "Philippines",
+            "uule": "w+CAIQICILUGhpbGlwcGluZXM="
+        },
+        {
+            "cc": "pk",
+            "tld": "com.pk",
+            "name": "Pakistan",
+            "uule": "w+CAIQICIIUGFraXN0YW4="
+        },
+        {
+            "cc": "pa",
+            "tld": "com.pa",
+            "name": "Panama",
+            "uule": "w+CAIQICIGUGFuYW1h"
+        },
+        {
+            "cc": "py",
+            "tld": "com.py",
+            "name": "Paraguay",
+            "uule": "w+CAIQICIIUGFyYWd1YXk="
+        },
+        {
+            "cc": "pe",
+            "tld": "com.pe",
+            "name": "Peru",
+            "uule": "w+CAIQICIEUGVydQ=="
+        },
+        {
+            "cc": "pl",
+            "tld": "pl",
+            "name": "Poland",
+            "uule": "w+CAIQICIGTm9yd2F5"
+        },
+        {
+            "cc": "pt",
+            "tld": "pt",
+            "name": "Portugal",
+            "uule": "w+CAIQICIIUG9ydHVnYWw="
+        },
+        {
+            "cc": "ro",
+            "tld": "ro",
+            "name": "Romania",
+            "uule": "w+CAIQICIHUm9tYW5pYQ=="
+        },
+        {
+            "cc": "ru",
+            "tld": "ru",
+            "name": "Russia",
+            "uule": "w+CAIQICIGUnVzc2lh"
+        },
+        {
+            "cc": "sg",
+            "tld": "com.sg",
+            "name": "Singapore",
+            "uule": "w+CAIQICIJU2luZ2Fwb3Jl"
+        },
+        {
+            "cc": "rs",
+            "tld": "rs",
+            "name": "Serbia",
+            "uule": "w+CAIQICIGU2VyYmlh"
+        },
+        {
+            "cc": "sk",
+            "tld": "sk",
+            "name": "Slovakia",
+            "uule": "w+CAIQICIIU2xvdmFraWE="
+        },
+        {
+            "cc": "za",
+            "tld": "co.za",
+            "name": "South Africa",
+            "uule": "w+CAIQICIMU291dGggQWZyaWNh"
+        },
+        {
+            "cc": "es",
+            "tld": "es",
+            "name": "Spain",
+            "uule": "w+CAIQICIFU3BhaW4="
+        },
+        {
+            "cc": "se",
+            "tld": "se",
+            "name": "Sweden",
+            "uule": "w+CAIQICIGU3dlZGVu"
+        },
+        {
+            "cc": "ch",
+            "tld": "ch",
+            "name": "Switzerland",
+            "uule": "w+CAIQICIHQmVsZ2l1bQ="
+        },
+        {
+            "cc": "tr",
+            "tld": "com.tr",
+            "name": "Turkey",
+            "uule": "w+CAIQICIGVHVya2V5"
+        },
+        {
+            "cc": "th",
+            "tld": "co.th",
+            "name": "Thailand",
+            "uule": "w+CAIQICIIVGhhaWxhbmQ="
+        },
+        {
+            "cc": "ae",
+            "tld": "ae",
+            "name": "United Arab Emirates",
+            "uule": "w+CAIQICIUVW5pdGVkIEFyYWIgRW1pcmF0ZXM="
+        },
+        {
+            "cc": "uk",
+            "tld": "co.uk",
+            "name": "United Kingdom",
+            "uule": "w+CAIQICIOVW5pdGVkIEtpbmdkb20="
+        },
+        {
+            "cc": "us",
+            "tld": "com",
+            "name": "United States",
+            "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+        },
+        {
+            "cc": "uy",
+            "tld": "com.uy",
+            "name": "Uruguay",
+            "uule": "w+CAIQICIHVXJ1Z3VheQ=="
+        },
+        {
+            "cc": "ve",
+            "tld": "co.ve",
+            "name": "Venezuela",
+            "uule": "w+CAIQICIJVmVuZXp1ZWxh"
+        },
+        {
+            "cc": "vn",
+            "tld": "com.vn",
+            "name": "Vietnam",
+            "uule": "w+CAIQICIHVmlldG5hbQ=="
+        }
+    ]
+}
