@@ -23,7 +23,7 @@ for (index in canonicalName) {
 let canonicalObject = {
   data: canonicalName
 }
-let json = JSON.stringify(canonicalObject, null, 4);
+let json = JSON.stringify(canonicalObject, null, 2);
 console.log(json);
 fs.writeFile('./lib/countries_uule.json', json, 'utf8', (err,res) => {
   if(err) {
